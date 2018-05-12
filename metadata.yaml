@@ -1,0 +1,28 @@
+_repo: The-Evolution-of--Dodd---13-A-pedagogical-story-giving-his-struggle-for-the-survival-of-the-f__13398
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Smith, William Hawley
+    birthdate: 1845
+    deathdate: 1922
+    gutenberg_agent_id: '5037'
+    url: http://www.gutenberg.org/2009/agents/5037
+description: ''
+gutenberg_issued: '2004-09-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13398'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Teaching'
+- !lcc 'PS'
+- !lcc 'LB'
+title: "The Evolution of \"Dodd\"\r\nA pedagogical story giving his struggle for the\
+  \ survival of the fittest, tracing his chances, his changes, and how he came out"
+url: http://www.gutenberg.org/ebooks/13398
